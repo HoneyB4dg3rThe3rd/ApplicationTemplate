@@ -8,4 +8,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    logger.inf0("Application Closed!")
+    logger.info("Application Closed!")
